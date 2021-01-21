@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ratings>
+  <Users>1</Users>
+  <Rated_Dates>
+    <Date>1/20/2021 5:31:13 PM</Date>
+  </Rated_Dates>
+  <Criteria>
+    <Food_Quality>
+      <Excellent>1</Excellent>
+      <Good>0</Good>
+      <Average>0</Average>
+      <Dissatisfied>0</Dissatisfied>
+    </Food_Quality>
+  </Criteria>
+  <Criteria>
+    <Staff_Behaviour>
+      <Excellent>0</Excellent>
+      <Good>1</Good>
+      <Average>0</Average>
+      <Dissatisfied>0</Dissatisfied>
+    </Staff_Behaviour>
+  </Criteria>
+  <Criteria>
+    <Cleanliness>
+      <Excellent>0</Excellent>
+      <Good>0</Good>
+      <Average>1</Average>
+      <Dissatisfied>0</Dissatisfied>
+    </Cleanliness>
+  </Criteria>
+  <Criteria>
+    <Order_Accuracy>
+      <Excellent>0</Excellent>
+      <Good>0</Good>
+      <Average>0</Average>
+      <Dissatisfied>1</Dissatisfied>
+    </Order_Accuracy>
+  </Criteria>
+  <Criteria>
+    <Restaurant_Ambiance>
+      <Excellent>0</Excellent>
+      <Good>0</Good>
+      <Average>0</Average>
+      <Dissatisfied>1</Dissatisfied>
+    </Restaurant_Ambiance>
+  </Criteria>
+  <Criteria>
+    <Value_for_Money>
+      <Excellent>0</Excellent>
+      <Good>0</Good>
+      <Average>0</Average>
+      <Dissatisfied>1</Dissatisfied>
+    </Value_for_Money>
+  </Criteria>
+</Ratings>
